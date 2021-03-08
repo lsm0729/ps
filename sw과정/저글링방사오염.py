@@ -60,14 +60,3 @@ count, time = bfs()
 
 print(time)
 print(zz-count)
-
-
-
-
-
-
-
-
-
-
-

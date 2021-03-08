@@ -1,3 +1,17 @@
+"""
+https://www.acmicpc.net/problem/10711
+
+5 6
+......
+.939..
+.3428.
+.9393.
+......
+
+
+"""
+
+
 import sys
 from collections import deque
 
