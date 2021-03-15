@@ -1,3 +1,17 @@
+"""
+7
+2 5
+4
+3
+1
+6
+5
+
+
+
+
+"""
+
 import sys
 
 def input_data():
