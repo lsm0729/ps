@@ -29,8 +29,7 @@ for color,pos in area.items():
 
 ans = 0
 for line in check:
-    temp = max(line)
-    ans  = max(ans,temp)
+    ans  = max(ans,max(line))
 print(ans)
 
 
