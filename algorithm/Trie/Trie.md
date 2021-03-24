@@ -5,5 +5,5 @@ node를 이용한 tree 형태
 
 Trie에 abc, ab, car을 삽입한다고 하면
 
-![ex_screenshow](trie_1.JPG)
-![ex_screenshow](trie_2.JPG)
+![](trie_1.JPG){: .align-center}
+
